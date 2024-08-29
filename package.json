@@ -1,0 +1,19 @@
+{
+  "name": "node-essentials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:ns01": "node src/ns01_events_demo/index.js",
+    "start:ns02": "node src/ns02_fs_demo/index.js",
+    "start:ns03": "node src/ns03_http_demo/server.js",
+    "start:ns04": "node src/ns04_os_demo/index.js",
+    "start:ns05": "node src/ns05_path_demo/index.js",
+    "start:ns06": "node src/ns06_pipe_demo/index.js",
+    "start:ns07": "node src/ns07_stream_demo/index.js",
+    "start:ns08": "node src/ns08_url_demo/index.js"
+  },
+  "author": "IxxI5",
+  "license": "MIT",
+  "description": "NodeJS Essentials"
+}
