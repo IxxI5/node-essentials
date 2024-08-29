@@ -36,12 +36,6 @@ After downloading the node-essentials repository, follow these steps:
 
 - **Unzip** the downloaded file.
 - **Open** VS Code Terminal
-- **Install Dependencies** (if any) through VS Code Terminal:
-
-  ```javascript
-  npm install                        /* install the dependencies */
-  ```
-
 - **Launch** a sub-project e.g. ns01_events_demo from Terminal:
 
   ```javascript
